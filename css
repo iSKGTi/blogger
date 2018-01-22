@@ -1,0 +1,8 @@
+.accordion{background-color:#b5e61d;border-radius:15px;color:#444;cursor:pointer;padding:18px;width:100%;border:none;text-align:left;outline:none;font-size:15px;transition:.4s}
+.active,.accordion:hover{background-color:#ccc}
+.panel{background-color:#f1ffe5;border-radius:15px;margin:8px;padding:5px;display:none}
+.dibba{background-color:#f1ffe5;border-radius:15px;margin-top:10px;padding:5px}
+.patti{background-color:#b5e61d;border-radius:15px;border:1px solid #38761d;margin-top:10px;padding:10px}
+.pic1latest{border-radius:15px;background-color:#f1ffe5}
+.pic1{padding-right:12%;padding-left:12%;border-radius:15px;background-color:#f1ffe5}
+.img-circle{border-radius:20px;margin:15px 25px 25px 0}
