@@ -1,5 +1,5 @@
 //<![CDATA[
-    var numfeed = 3;
+    var numfeed = 5;
     var startfeed = 0;
     var urlblog = "https://testingreenagg3.blogspot.in";
     var charac = 70;
