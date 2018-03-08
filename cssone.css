@@ -1,0 +1,23 @@
+.post {background:#fff;color:#020005;margin:0 0 15px;padding:0;box-shadow:none;border:none;border-bottom:4px solid #e1e2e4;border-radius: 0px 0px 7px 0px;transition:all 1s linear;}
+.post:hover {transition:.3s linear;}
+.post-body {line-height:1.6em;color:#595959;margin-top:10px;margin-right:10px;font-size:15px;font-weight:bold;}
+h2.post-title, h1.post-title {font-family:&#39;Oswald&#39;,sans-serif;font-size:20px;font-weight:400;padding:10px;padding-bottom:0;background:#fff;z-index:0;}
+h2.post-title:hover, h1.post-title:hover {color:#020005;}
+h2.post-title a, h1.post-title a, h2.post-title, h1.post-title {color:#020005;z-index:0; font-weight:bold;}
+h2.post-title a:hover, h1.post-title a:hover {color:#020005!important;}
+.post-info {background:#fff;margin-top:0;margin-bottom:0;padding:0;color:#5b686a;font-size:13px;}
+.post-info a {display:inline;background:transparent;color:#5b686a;padding:0;padding-right:5px;margin-bottom:10px;}
+.post-info a:hover {background:transparent;color:#020005;}
+a.read-more {position:absolute;display:inline-block;margin:15px 0 0;background-color:#fff;color:#b1b8bd;padding:3px 12px;line-height:26px;
+font-family:&#39;Open Sans&#39;,Verdana,Sans-serif;font-size:20px;font-weight:400;text-transform:uppercase;opacity:0;right:80px;bottom:0;border-radius: 0px 0px 3px 0px;}
+.post:hover a.read-more{opacity:1;right:0;}
+.img-thumbnail {background:#fcfcfc url(http://4.bp.blogspot.com/-mj8tRKB7gU8/U6a5E68I5DI/AAAAAAAADw4/MDNUrXlP5Jg/s1600/no-image.png) no-repeat center center;position:relative;float:left;width:220px;height:170px;
+margin:0 15px 0 0;z-index:1;}
+.img-thumbnail img {width:220px;height:170px;z-index:1;}
+
+@media only screen and (max-width:640px){
+h2.post-title, h1.post-title, h2.post-title a, h1.post-title a, h2.post-title, h1.post-title {font-size:18px;}}
+@media only screen and (max-width:480px){
+h2.post-title, h1.post-title, h2.post-title a, h1.post-title a, h2.post-title, h1.post-title {font-size:18px;}}
+@media only screen and (max-width:320px){
+h2.post-title, h1.post-title, h2.post-title a, h1.post-title a, h2.post-title, h1.post-title {font-size:14px;}}
