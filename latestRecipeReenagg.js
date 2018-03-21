@@ -1,5 +1,5 @@
 //<![CDATA[
-    var numfeed = 5;
+    var numfeed = 10;
     var startfeed = 0;
     var urlblog = "https://www.reenagg.com";
     var charac = 125;
